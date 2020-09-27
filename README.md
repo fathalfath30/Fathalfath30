@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 
 # Fathalfath30 [Alfath Dioni] <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
-
 ###### Find me around the internet
 [<img align="left" alt="fathalfath30 | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="fathalfath30 | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fathalfath30 | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
 
 # GitHub Stats 📊
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fathalfath30)
